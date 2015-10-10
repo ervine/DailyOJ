@@ -41,8 +41,8 @@ char* countAndSay(int n) {
     }
     *(finalSay+k) = '\0';
 
-    //free(say[0]);
-    //free(say[1]);
+    free(say[0]);
+    free(say[1]);
     return finalSay;
 }
 
