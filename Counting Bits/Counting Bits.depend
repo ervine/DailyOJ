@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458356494 source:f:\project\coding\github\dailyoj\counting bits\main.c
+	<stdio.h>
+	<stdlib.h>
+

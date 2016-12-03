@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458964616 source:f:\project\coding\github\dailyoj\distinct subsequences\main.c
+	<stdio.h>
+	<stdlib.h>
+
